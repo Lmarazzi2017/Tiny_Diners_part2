@@ -1,0 +1,7 @@
+
+. jumbotron  {
+	min-height: 600px;
+	background-image: url("Images/Children-At-Table.jpg"); 
+	background-size: cover;
+	background-attachment: fixed;
+	}
